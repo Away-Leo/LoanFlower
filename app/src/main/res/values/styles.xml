@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/tab_font_bright</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorAccent">@color/tab_font_bright</item>
+        <item name="android:windowTranslucentNavigation">false</item> <!--设置底部导航为透明-->
+        <item name="android:windowEnableSplitTouch">false</item>  <!--禁用全局多点触控 -->
+        <item name="android:splitMotionEvents">false</item>  <!--防止对控件的重复点击和同时点击多个控件-->
+
+    </style>
+
+    <!--<style name="PopupAnimaFade" parent="android:Animation">-->
+        <!--<item name="android:windowEnterAnimation">@anim/basepopup_fade_in</item>-->
+        <!--<item name="android:windowExitAnimation">@anim/basepopup_fade_out</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="loading">-->
+        <!--<item name="android:indeterminate">true</item>-->
+        <!--<item name="android:indeterminateDrawable">@drawable/progressloading</item>-->
+        <!--<item name="android:indeterminateDuration">1000</item>-->
+        <!--<item name="android:indeterminateOnly">true</item>-->
+    <!--</style>-->
+
+
+    <style name="FullTranslucentTheme" parent="AppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+
+    <!--发布信息item父布局Style-->
+
+    <!--发布信息item标题Style(最左边一栏TextView)-->
+
+    <!--发布信息item单位Style(最右边一栏TextView)-->
+
+    <!--发布信息item输入框Style-->
+
+    <!--发布信息item选择框Style-->
+
+</resources>

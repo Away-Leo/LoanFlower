@@ -1,0 +1,99 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    defaultConfig {
+        applicationId "com.pingxun.loanflower"
+        minSdkVersion rootProject.ext.appMinSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    signingConfigs {
+        release {
+            keyAlias 'key1'
+            keyPassword '666666'
+            storeFile file('D:\\PingXunApp')
+            storePassword '666666'
+            v2SigningEnabled false
+        }
+        config {
+            keyAlias 'key1'
+            keyPassword '666666'
+            storeFile file('D:\\PingXunApp')
+            storePassword '666666'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+
+//打包后应用名称
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def outputFile = output.outputFile
+            def fileName
+            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                if (variant.buildType.name.equals('release')) {
+                    fileName = "LoanFlower_v${defaultConfig.versionName}.apk"
+                } else if (variant.buildType.name.equals('debug')) {
+                    fileName = "LoanFlower_v${defaultConfig.versionName}_debug.apk"
+                }
+                output.outputFile = new File(outputFile.parent, fileName)
+            }
+        }
+    }
+
+
+    // dataBinding 加入
+    dataBinding {
+        enabled = true
+    }
+
+
+    //开启Java1.8 能够使用lambda表达式
+    compileOptions{
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //   compile "com.android.support:support-v4:$supportVersion"
+    //  compile "com.android.support:appcompat-v7:$supportVersion"
+    //   compile "com.android.support:design:$supportVersion"
+    //  compile "com.android.support:recyclerview-v7:$supportVersion"
+    compile "com.android.support:cardview-v7:$supportVersion"
+    //  compile 'org.greenrobot:eventbus:3.0.0'//EventBus
+    //   compile 'com.google.code.gson:gson:2.8.0'//Gson
+    //  compile 'com.github.bumptech.glide:glide:3.7.0'//图片加载
+    //    compile 'com.lzy.net:okgo:3.0.4'//okgo网络框架
+    //compile 'com.orhanobut:logger:1.15'//log工具库
+    // compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'//万能Adapter
+    compile 'com.contrarywind:Android-PickerView:3.2.7'
+    //仿IOS滚轮
+    //  compile 'com.umeng.analytics:analytics:latest.integration'//友盟
+    //  compile 'com.yanzhenjie:permission:1.1.0'//动态权限申请库
+    //  compile 'com.github.lh1250360307:PXNetUtil:1.0.0.0'
+    compile 'com.github.lh1250360307:PXCore:1.0.0.11'
+    compile 'com.github.Away-Leo:PXCore:1.1.4.49'//平讯核心包
+    compile 'ch.ielse:switchbutton:1.0.1'//仿IOS风格switchButton
+    //  compile 'ch.ielse:switchbutton:1.0.0'//仿IOS风格switchButton
+    testCompile 'junit:junit:4.12'
+
+    compile project(':share')
+}

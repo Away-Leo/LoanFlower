@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_icon.png",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_icon_round.png",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    }
+]

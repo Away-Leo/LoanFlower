@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/pageerrLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout style="@style/MatchMatch">
+
+        <LinearLayout
+            style="@style/WrapWrap"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <RelativeLayout
+                style="@style/WrapWrap"
+                android:layout_gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/img_error_layout"
+                    style="@style/WrapWrap"
+                    android:background="@mipmap/icon_no_login"
+                    android:visibility="gone"
+                    tools:ignore="ContentDescription"/>
+
+                <ProgressBar
+                    android:id="@+id/animProgress"
+                    style="@style/loading"
+                    android:layout_width="35dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_error_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:lines="3"
+                android:text="@string/error_view_click_to_refresh"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

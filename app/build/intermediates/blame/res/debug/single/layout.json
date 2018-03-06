@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bga_banner_item_image.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f8e130b6d949cc9ef9b56a14aba8c303be61287b\\output\\res\\layout\\bga_banner_item_image.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\line_vertical_1dp_2.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\line_vertical_1dp_2.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\recommend_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_pro.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_registration_pro.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\item_popup_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_strategy_info.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_strategy_info.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\top_view.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\popup_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cooperation.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_cooperation.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_info.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_msg_info.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_no_login.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\view_no_login.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\25fba2584bc6ec10a6de14b5b72e3001c9d05c3d\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_window_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\alert_window_menu.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_notnet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\view_notnet.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wall_pop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\wall_pop.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\px_webview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\px_webview.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rv_item_product_style_two.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\rv_item_product_style_two.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info_first.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_user_info_first.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list_view_pager.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_product_list_view_pager.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_list.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_msg_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_commom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\layout\\dialog_commom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_guid.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_call_phone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\dialog_call_phone.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_top_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\local_top_view.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_error_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\view_error_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info_sencond.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_user_info_sencond.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_pop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\wechat_pop.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_home.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\ui_home.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_product_info.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_my_product_info.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info_third.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_user_info_third.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_page.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\recommend_page.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\line_vertical_1dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\line_vertical_1dp.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_info.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_product_info.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_parent_lay.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\wechat_parent_lay.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\line_vertical_10dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\line_vertical_10dp.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_product_list.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\activity_my_product_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apply_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_apply_list.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rv_item_msg.xml",
+        "source": "E:\\githubWork\\LoanFlower\\app\\src\\main\\res\\layout\\rv_item_msg.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_quit_login.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\dialog_quit_login.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rv_item_product_style_one.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\rv_item_product_style_one.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_error.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pxsimple_web_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\layout\\pxsimple_web_view.xml"
+    }
+]

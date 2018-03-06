@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_qzone.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_qzone.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_weibo.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_weibo.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_circle_of_friends.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_circle_of_friends.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_sms.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_sms.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_qq.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_qq.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\mipmap-xxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_wechat.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\share_wechat.png"
+    }
+]

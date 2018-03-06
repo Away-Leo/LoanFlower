@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.github.Away-Leo:PXMetaLib-1.0.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d28c480cff5da0e03c0d9e811c29660d7e5c3393/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d28c480cff5da0e03c0d9e811c29660d7e5c3393/output/jars/libs/umeng-common-1.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d28c480cff5da0e03c0d9e811c29660d7e5c3393/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d28c480cff5da0e03c0d9e811c29660d7e5c3393/output/jars/libs/umeng-analytics-7.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d28c480cff5da0e03c0d9e811c29660d7e5c3393/output/jars/libs/AMap_Location_V3.4.0_20170427.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                 style="@style/MatchWrap"
+                android:fitsSystemWindows="true"
+                android:background="@color/tab_font_bright">
+
+    <RelativeLayout
+        android:id="@+id/iv_topview_back"
+        android:layout_width="50dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            style="@style/WrapWrap"
+            android:layout_marginStart="10dp"
+            android:background="@mipmap/icon_back"
+            tools:ignore="ContentDescription"/>
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_topview_title"
+        style="@style/WrapWrap"
+        android:layout_centerInParent="true"
+        tools:text="设置标题"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+</RelativeLayout>

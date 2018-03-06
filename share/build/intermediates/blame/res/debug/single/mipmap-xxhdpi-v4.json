@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_qzone.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_qzone.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_qq.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_qq.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_circle_of_friends.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_circle_of_friends.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_weibo.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_weibo.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_wechat.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_wechat.png"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\share_sms.png",
+        "source": "E:\\githubWork\\LoanFlower\\share\\src\\main\\res\\mipmap-xxhdpi\\share_sms.png"
+    }
+]

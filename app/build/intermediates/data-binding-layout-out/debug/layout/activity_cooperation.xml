@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/grey_line" android:tag="layout/activity_cooperation_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <!--引入公共顶部按钮以及标题-->
+        <include layout="@layout/local_top_view"/>
+
+
+        <ScrollView
+            style="@style/MatchWrap">
+
+            <LinearLayout
+                style="@style/MatchWrap.Vertical">
+
+                <LinearLayout
+                    android:background="@color/white"
+                    android:layout_margin="10dp"
+                    style="@style/MatchWrap.Vertical" android:tag="binding_1">
+
+                    <RelativeLayout
+                        android:layout_marginTop="20dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginBottom="20dp"
+                        style="@style/MatchWrap">
+
+                        <ImageView
+                            android:id="@+id/iv_swhz"
+                            style="@style/WrapWrap"
+                            android:layout_marginEnd="14dp"
+                            android:src="@mipmap/cooperation_activity_swhz"/>
+
+                        <TextView
+                            android:id="@+id/tv_business_cooperation"
+                            style="@style/WrapWrap"
+                            android:text="@string/business_cooperation"
+                            android:layout_toEndOf="@+id/iv_swhz"
+                            android:textSize="16sp"
+                            android:textColor="@color/black"/>
+
+
+                        <TextView
+                            android:layout_marginTop="4dp"
+                            android:layout_marginEnd="14dp"
+                            android:layout_below="@+id/tv_business_cooperation"
+                            android:layout_toEndOf="@+id/iv_swhz"
+                            android:text="@string/business_cooperation_text"
+                            style="@style/MatchWrap"/>
+
+                    </RelativeLayout>
+
+
+                    <LinearLayout
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_e_mail"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    邮箱地址:     120351138@qq.com"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+
+                    <include layout="@layout/line_vertical_1dp"/>
+
+
+
+                    <LinearLayout
+                        android:layout_marginTop="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_call"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    联系方式:     18581137256"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:background="@color/white"
+                    android:layout_margin="10dp"
+                    style="@style/MatchWrap.Vertical" android:tag="binding_2">
+
+                    <RelativeLayout
+                        android:layout_marginTop="20dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginBottom="20dp"
+                        style="@style/MatchWrap">
+
+                        <ImageView
+                            android:id="@+id/iv_schz"
+                            style="@style/WrapWrap"
+                            android:layout_marginEnd="14dp"
+                            android:src="@mipmap/cooperation_activity_schz"/>
+
+                        <TextView
+                            android:id="@+id/tv_bazaar_cooperation"
+                            style="@style/WrapWrap"
+                            android:text="@string/bazaar_cooperation"
+                            android:layout_toEndOf="@+id/iv_schz"
+                            android:textSize="16sp"
+                            android:textColor="@color/black"/>
+
+
+                        <TextView
+                            android:layout_marginTop="4dp"
+                            android:layout_marginEnd="14dp"
+                            android:layout_below="@+id/tv_bazaar_cooperation"
+                            android:layout_toEndOf="@+id/iv_schz"
+                            android:text="@string/bazaar_cooperation_text"
+                            style="@style/MatchWrap"/>
+
+                    </RelativeLayout>
+
+
+                    <LinearLayout
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_e_mail"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    邮箱地址:     120351138@qq.com"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+
+                    <include layout="@layout/line_vertical_1dp"/>
+
+
+
+                    <LinearLayout
+                        android:layout_marginTop="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_call"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    联系方式:     18581137256"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:background="@color/white"
+                    android:layout_margin="10dp"
+                    style="@style/MatchWrap.Vertical" android:tag="binding_3">
+
+                    <RelativeLayout
+                        android:layout_marginTop="20dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginBottom="20dp"
+                        style="@style/MatchWrap">
+
+                        <ImageView
+                            android:id="@+id/iv_xmhz"
+                            style="@style/WrapWrap"
+                            android:layout_marginEnd="14dp"
+                            android:src="@mipmap/cooperation_activity_xmhz"/>
+
+                        <TextView
+                            android:id="@+id/tv_project_cooperation"
+                            style="@style/WrapWrap"
+                            android:text="@string/project_cooperation"
+                            android:layout_toEndOf="@+id/iv_xmhz"
+                            android:textSize="16sp"
+                            android:textColor="@color/black"/>
+
+
+                        <TextView
+                            android:layout_marginTop="4dp"
+                            android:layout_marginEnd="14dp"
+                            android:layout_below="@+id/tv_project_cooperation"
+                            android:layout_toEndOf="@+id/iv_xmhz"
+                            android:text="@string/project_cooperation_text"
+                            style="@style/MatchWrap"/>
+
+                    </RelativeLayout>
+
+
+                    <LinearLayout
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_e_mail"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    邮箱地址:     120351138@qq.com"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+
+                    <include layout="@layout/line_vertical_1dp"/>
+
+
+
+                    <LinearLayout
+                        android:layout_marginTop="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap.Horizontal">
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/cooperation_activity_icon_call"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="    联系方式:     18581137256"
+                            android:textColor="@color/black"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+
+
+
+    </LinearLayout>
+         

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/white" android:tag="layout/activity_product_list_view_pager_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.scwang.smartrefresh.layout.SmartRefreshLayout
+            android:id="@+id/smartrefreshlayout"
+            style="@style/MatchMatch">
+
+            <com.scwang.smartrefresh.header.MaterialHeader
+                style="@style/MatchMatch"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv"
+                style="@style/MatchMatch"/>
+
+        </com.scwang.smartrefresh.layout.SmartRefreshLayout>
+
+
+    </LinearLayout>
+         

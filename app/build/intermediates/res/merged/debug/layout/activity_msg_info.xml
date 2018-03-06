@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/white">
+
+        <RelativeLayout
+            style="@style/MatchWrap"
+            android:id="@+id/top_view"
+            android:background="@color/tab_font_bright"
+            android:fitsSystemWindows="true">
+
+            <RelativeLayout
+                android:id="@+id/iv_topview_back"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingTop="8dp">
+
+                <ImageView
+                    style="@style/WrapWrap"
+                    android:layout_marginStart="10dp"
+                    android:background="@mipmap/icon_back"
+                    tools:ignore="ContentDescription"/>
+
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/tv_topview_title"
+                style="@style/WrapWrap"
+                android:layout_centerInParent="true"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                tools:text="设置标题"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/top_view"
+            style="@style/MatchWrap.Vertical">
+            <ScrollView
+                style="@style/MatchMatch"
+                android:layout_marginBottom="70dp">
+
+                <LinearLayout
+                    android:id="@+id/parent_view"
+                    style="@style/MatchMatch.Vertical"
+                    android:padding="14dp"
+                    android:visibility="visible">
+
+                    <TextView
+                        android:id="@+id/tv_title"
+                        style="@style/WrapWrap"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"
+                        tools:text="感谢您使用我们的产品"/>
+
+                    <TextView
+                        android:id="@+id/tv_time"
+                        style="@style/WrapWrap"
+                        android:layout_marginTop="10dp"
+                        android:textSize="12sp"
+                        tools:text="2017-09-04 10:40:00"/>
+
+                    <TextView
+                        android:id="@+id/tv_content"
+                        style="@style/WrapWrap"
+                        android:layout_marginTop="10dp"/>
+
+
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <com.pingxundata.answerliu.pxcore.view.EmptyLayout
+            android:id="@+id/empty_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/top_view"
+            android:visibility="gone"/>
+
+
+    </RelativeLayout>
+
+</layout>

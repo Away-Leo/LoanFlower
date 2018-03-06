@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/white">
+
+        <RelativeLayout
+            style="@style/MatchWrap"
+            android:background="@color/tab_font_bright">
+            <RelativeLayout
+                android:id="@+id/iv_topview_back"
+                android:layout_width="50dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    style="@style/WrapWrap"
+                    android:layout_marginStart="10dp"
+                    android:background="@mipmap/icon_back"
+                    tools:ignore="ContentDescription"/>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_topview_title"
+                style="@style/WrapWrap"
+                android:layout_centerInParent="true"
+                android:text="@string/home_tab_product"
+                android:textColor="@color/white"
+                android:textSize="18sp"/>
+
+
+            <LinearLayout
+                android:id="@+id/lin_type"
+                style="@style/WrapWrap.Vertical"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_type"
+                    style="@style/WrapWrap"
+                    android:drawableEnd="@mipmap/icon_down_arrow_white"
+                    android:text="@string/synthesize_index"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            app:tabIndicatorColor="@color/tab_font_bright"
+            app:tabSelectedTextColor="@color/tab_font_bright"/>
+
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            tools:ignore="InefficientWeight"/>
+
+
+    </LinearLayout>
+</layout>

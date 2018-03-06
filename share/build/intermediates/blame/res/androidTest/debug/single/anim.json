@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\basepopup_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d28c480cff5da0e03c0d9e811c29660d7e5c3393\\output\\res\\anim\\basepopup_fade_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\basepopup_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d28c480cff5da0e03c0d9e811c29660d7e5c3393\\output\\res\\anim\\basepopup_fade_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\share\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

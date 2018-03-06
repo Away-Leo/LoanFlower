@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <FrameLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/grey_line" android:tag="layout/fragment_mine_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/smartrefreshlayout"
+            style="@style/MatchMatch">
+
+            <ScrollView
+                style="@style/MatchMatch">
+
+                <LinearLayout
+                    style="@style/MatchMatch.Vertical">
+                    <!--  头部 -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@mipmap/mine_bac_new"
+                        android:orientation="vertical">
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="25dp"
+                            android:text="个人中心"
+                            android:textColor="@color/white"
+                            android:textSize="18sp"/>
+
+
+                        <LinearLayout
+                            android:id="@+id/mine_login"
+                            style="@style/MatchWrap.Vertical"
+                            android:layout_marginTop="20dp"
+                            tools:ignore="UseCompoundDrawables">
+
+                            <ImageView
+                                android:id="@+id/iv_head"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:layout_gravity="center"
+                                android:src="@mipmap/icon_head"
+                                tools:ignore="ContentDescription"/>
+
+                            <TextView
+                                android:id="@+id/tv_name"
+                                style="@style/WrapWrap"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:textColor="@color/white"
+                                tools:text="13101205180"/>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_marginTop="10dp"
+                        style="@style/MatchWrap.Vertical"
+                        android:background="@color/white">
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="10dp"
+                            android:text="客服电话"
+                            android:textColor="@color/black"/>
+
+                        <RelativeLayout
+                            android:id="@+id/mine_contact_us"
+                            style="@style/WrapWrap"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@mipmap/mine_call_bg">
+
+                            <ImageView
+                                android:id="@+id/iv_call_phone"
+                                style="@style/WrapWrap"
+                                android:layout_marginStart="20dp"
+                                android:layout_marginTop="8dp"
+                                android:src="@mipmap/icon_call_phone"/>
+
+
+                            <TextView
+                                android:id="@+id/tv_num"
+                                style="@style/WrapWrap"
+                                android:layout_marginStart="12dp"
+                                android:layout_marginTop="4dp"
+                                android:layout_toEndOf="@+id/iv_call_phone"
+                                android:text="400-862-2287"
+                                android:textColor="@color/white"/>
+
+                            <TextView
+                                style="@style/WrapWrap"
+                                android:layout_below="@+id/tv_num"
+                                android:layout_marginStart="22dp"
+                                android:layout_toEndOf="@+id/iv_call_phone"
+                                android:textSize="10sp"
+                                android:text="拨打客服电话"
+                                android:textColor="@color/white"/>
+
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/mine_user_info"
+                        android:layout_margin="10dp"
+                        style="@style/MatchWrap"
+                        android:background="@mipmap/mine_user_info_bg">
+
+
+                        <ImageView
+                            android:id="@+id/iv_user_info"
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_user_info"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="个人信息"
+                            android:layout_marginStart="10dp"
+                            android:textSize="16sp"
+                            android:layout_toEndOf="@+id/iv_user_info"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/white"/>
+
+                        <ImageView
+
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_right_jiantou_white"
+                            android:layout_marginEnd="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentEnd="true"/>
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/mine_apply"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap"
+                        android:background="@mipmap/mine_apply_bg">
+
+
+                        <ImageView
+                            android:id="@+id/iv_apply"
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_apply"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="借款记录"
+                            android:layout_marginStart="10dp"
+                            android:textSize="16sp"
+                            android:layout_toEndOf="@+id/iv_apply"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/white"/>
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_right_jiantou_white"
+                            android:layout_marginEnd="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentEnd="true"/>
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/mine_share"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap"
+                        android:background="@mipmap/mine_share_bg">
+
+
+                        <ImageView
+                            android:id="@+id/iv_share"
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_mine_share"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="分享好友"
+                            android:layout_marginStart="10dp"
+                            android:textSize="16sp"
+                            android:layout_toEndOf="@+id/iv_share"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/white"/>
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_right_jiantou_white"
+                            android:layout_marginEnd="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentEnd="true"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/mine_cooperation"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap"
+                        android:background="@mipmap/mine_cooperation_bg">
+
+
+                        <ImageView
+                            android:id="@+id/iv_cooperation"
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_cooperation"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="商务合作"
+                            android:layout_marginStart="10dp"
+                            android:textSize="16sp"
+                            android:layout_toEndOf="@+id/iv_cooperation"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/white"/>
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_right_jiantou_white"
+                            android:layout_marginEnd="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentEnd="true"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/mine_about_us"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        style="@style/MatchWrap"
+                        android:background="@mipmap/mine_about_us_bg">
+
+
+                        <ImageView
+                            android:id="@+id/iv_about_us"
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_about_us"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            style="@style/WrapWrap"
+                            android:text="关于我们"
+                            android:layout_marginStart="10dp"
+                            android:textSize="16sp"
+                            android:layout_toEndOf="@+id/iv_about_us"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/white"/>
+
+                        <ImageView
+                            style="@style/WrapWrap"
+                            android:src="@mipmap/icon_right_jiantou_white"
+                            android:layout_marginEnd="20dp"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentEnd="true"/>
+
+                    </RelativeLayout>
+
+
+                    <!--退出登录-->
+                    <TextView
+                        android:id="@+id/btn_quit"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center"
+                       android:layout_margin="10dp"
+                        android:background="@mipmap/icon_btn_bg"
+                        android:gravity="center"
+                        android:text="@string/quit_login"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        android:typeface="serif"
+                        android:visibility="gone"
+                        tools:visibility="visible"/>
+
+                </LinearLayout>
+            </ScrollView>
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </FrameLayout>
+         

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                           
+                                                       
+
+    <FrameLayout
+        style="@style/MatchMatch.Vertical"
+        android:background="@color/white"
+        android:focusable="true"
+        android:focusableInTouchMode="true" android:tag="layout/activity_my_product_info_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            style="@style/MatchMatch.Vertical">
+
+            <RelativeLayout
+                style="@style/MatchWrap"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@color/tab_font_bright"
+                android:fitsSystemWindows="true">
+
+                <RelativeLayout
+                    android:id="@+id/iv_topview_back"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        style="@style/WrapWrap"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="10dp"
+                        android:background="@mipmap/icon_back"
+                        tools:ignore="ContentDescription"/>
+
+                </RelativeLayout>
+
+
+                <TextView
+                    android:id="@+id/tv_topview_title"
+                    style="@style/WrapWrap"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    tools:text="设置标题"/>
+
+                <RelativeLayout
+                    android:id="@+id/iv_share"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true">
+
+                    <ImageView
+                        style="@style/WrapWrap"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="10dp"
+                        android:background="@mipmap/icon_share"
+                        tools:ignore="ContentDescription"/>
+
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+            <ScrollView
+                style="@style/MatchMatch"
+                android:layout_marginBottom="70dp">
+
+                <RelativeLayout
+                    style="@style/MatchWrap">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:background="@color/tab_font_bright"/>
+
+                    <LinearLayout
+                        style="@style/MatchWrap.Vertical"
+                        android:layout_marginEnd="20dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="40dp"
+                        android:background="@drawable/shap_white_home" android:tag="binding_1">
+
+                        <RelativeLayout
+                            style="@style/MatchWrap.Horizontal"
+                            android:layout_marginTop="40dp">
+
+                            <ImageView
+                                android:id="@+id/iv_product"
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:layout_marginEnd="20dp"
+                                android:layout_marginStart="20dp"
+                                tools:src="@mipmap/app_icon"/>
+
+                            <TextView
+                                android:id="@+id/tv_title"
+                                style="@style/MatchWrap"
+                                android:layout_marginEnd="20dp"
+                                android:layout_toRightOf="@+id/iv_product"
+                                android:ellipsize="end"
+                                android:singleLine="true"
+                                android:textColor="@color/black"
+                                android:textSize="16sp"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="产品名称"/>
+
+                            <TextView
+                                android:id="@+id/tv_sub_title"
+                                style="@style/MatchWrap"
+                                android:layout_below="@+id/tv_title"
+                                android:layout_marginEnd="20dp"
+                                android:layout_marginTop="8dp"
+                                android:layout_toRightOf="@+id/iv_product"
+                                android:ellipsize="end"
+                                android:singleLine="true"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="副标题"/>
+
+                            <TextView
+                                android:id="@+id/tv_apply_num"
+                                style="@style/MatchWrap"
+                                android:layout_below="@+id/tv_sub_title"
+                                android:layout_marginEnd="20dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_toRightOf="@+id/iv_product"
+                                android:ellipsize="end"
+                                android:singleLine="true"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="额度期限"/>
+
+                        </RelativeLayout>
+
+                        <LinearLayout
+                            style="@style/MatchWrap.Horizontal"
+                            android:layout_marginTop="30dp">
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:text="额度范围"/>
+
+                                <TextView
+                                    android:id="@+id/tv_loan_scope"
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:textColor="#FFB32C"
+                                    android:textSize="16sp"
+                                    tools:text="0.05-15万"/>
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+
+                                <TextView
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:text="期限范围"/>
+
+                                <TextView
+                                    android:id="@+id/tv_time_scope"
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:textColor="#FFB32C"
+                                    android:textSize="16sp"
+                                    tools:text="1-24月"/>
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:text="参考利率"/>
+
+                                <TextView
+                                    android:id="@+id/tv_rate"
+                                    style="@style/MatchWrap"
+                                    android:gravity="center"
+                                    android:textColor="#FFB32C"
+                                    android:textSize="16sp"
+                                    tools:text="0.05%"/>
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <!--申请流程-->
+                        <LinearLayout
+                            style="@style/MatchWrap.Vertical"
+                            android:paddingBottom="20dp"
+                            android:paddingStart="20dp"
+                            android:paddingTop="10dp"
+                            tools:ignore="RtlSymmetry">
+
+                            <TextView
+                                style="@style/WrapWrap"
+                                android:text="@string/apply_flow"
+                                android:textColor="@color/black"
+                                android:textSize="16sp"
+                                tools:ignore="RtlHardcoded"/>
+
+
+                            <TextView
+                                android:id="@+id/tv_process"
+                                style="@style/WrapWrap"
+                                android:layout_marginTop="6dp"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="利率说明1231231321321"/>
+
+                        </LinearLayout>
+
+                        <include layout="@layout/line_vertical_1dp"/>
+                        <!--申请条件-->
+                        <LinearLayout
+                            style="@style/MatchWrap.Vertical"
+                            android:paddingBottom="20dp"
+                            android:paddingStart="20dp"
+                            android:paddingTop="10dp"
+                            tools:ignore="RtlSymmetry">
+
+                            <TextView
+                                style="@style/WrapWrap"
+                                android:text="@string/apply_condition"
+                                android:textColor="@color/black"
+                                android:textSize="16sp"
+                                tools:ignore="RtlHardcoded"/>
+
+
+                            <TextView
+                                android:id="@+id/tv_condition"
+                                style="@style/WrapWrap"
+                                android:layout_marginTop="6dp"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="利率说明1231231321321"/>
+
+                        </LinearLayout>
+
+                        <include layout="@layout/line_vertical_1dp"/>
+
+                        <!--申请材料-->
+                        <LinearLayout
+                            style="@style/MatchWrap.Vertical"
+                            android:paddingBottom="20dp"
+                            android:paddingStart="20dp"
+                            android:paddingTop="10dp"
+                            tools:ignore="RtlSymmetry">
+
+                            <TextView
+                                style="@style/WrapWrap"
+                                android:text="@string/apply_material"
+                                android:textColor="@color/black"
+                                android:textSize="16sp"
+                                tools:ignore="RtlHardcoded"/>
+
+
+                            <TextView
+                                android:id="@+id/tv_datum"
+                                style="@style/WrapWrap"
+                                android:layout_marginTop="6dp"
+                                tools:ignore="RtlHardcoded"
+                                tools:text="利率说明1231231321321"/>
+
+                        </LinearLayout>
+
+                        <include layout="@layout/line_vertical_1dp"/>
+
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+
+            </ScrollView>
+
+        </LinearLayout>
+
+
+        <!--借款按钮-->
+        <LinearLayout
+            style="@style/MatchWrap"
+            android:layout_gravity="bottom"
+            android:padding="10dp">
+
+            <Button
+                android:id="@+id/btn_enter"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/shap_product_info_btn_bg"
+                android:text="@string/immediately_loan"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:typeface="serif"/>
+
+        </LinearLayout>
+
+        <com.pingxundata.answerliu.pxcore.view.EmptyLayout
+            android:id="@+id/empty_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp"
+            android:visibility="gone"/>
+
+    </FrameLayout>
+         

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="tab_font_bright">#4A55E3</color><!-- 主色调 -->
+    <color name="tab_font_bright_end">#2D75FD</color><!-- 主色调 -->
+    <color name="tab_font_bright50">#5001AAEF</color><!-- 主色调半透明 -->
+
+    <!--<color name="tab_font">#666666</color>-->
+    <!--<color name="black">#000000</color>-->
+    <!--<color name="white">#ffffff</color>-->
+    <!--<color name="white50">#50ffffff</color>-->
+    <!--<color name="grey_line">#EEEEEE</color>-->
+    <!--<color name="yellow">#FFCC33</color>-->
+    <!--<color name="yellow50">#50FFCC33</color>-->
+    <!--<color name="f1_type_bg">#F3F3F3</color>&lt;!&ndash;首页产品分类的背景色&ndash;&gt;-->
+
+    <!--<color name="blue">#119EFA</color>-->
+    <!--<color name="main_bg">#F3F3F3</color>&lt;!&ndash;首页产品分类的背景色&ndash;&gt;-->
+    <!--<color name="grey_home">#EEEEEE</color>-->
+    <!--<color name="red">#ff0036</color>-->
+
+
+</resources>
+

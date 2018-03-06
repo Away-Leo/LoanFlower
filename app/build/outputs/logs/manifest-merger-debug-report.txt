@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:2:1-187:12
+	package
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:4:11-43
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:12:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\dd947159f2084f04755753774a71172a8f0ca149\output\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:9:5-65
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.CAMERA
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:11:5-64
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:17:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\dd947159f2084f04755753774a71172a8f0ca149\output\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:14:5-83
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:19:5-84
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:37:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\dd947159f2084f04755753774a71172a8f0ca149\output\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:16:5-80
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:21:5-81
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:35:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\dd947159f2084f04755753774a71172a8f0ca149\output\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:18:5-80
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:20:5-78
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:22:5-75
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:24:5-78
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:29:5-79
+MERGED from [com.github.Away-Leo:PXMetaLib:1.0.0.5] C:\Users\Administrator\.android\build-cache\d28c480cff5da0e03c0d9e811c29660d7e5c3393\output\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:26:5-75
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:28:5-74
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:34:5-68
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:39:5-69
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:34:22-66
+application
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:36:5-185:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\faf292fe62ed12dc9fb992a0de9a381b563b0aa5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:41:5-58:19
+MERGED from [com.github.Away-Leo:CommonDialog:1.0.1] C:\Users\Administrator\.android\build-cache\9ecde938d700c85afdd3720c8f83bde524ceba47\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Administrator\.android\build-cache\9c769074916cf2567472b725a0dd12888ba9cf1d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [ch.ielse:switchbutton:1.0.1] C:\Users\Administrator\.android\build-cache\5664e7618b2a478e9fbceff9624a363a19e28275\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.Away-Leo:PXMetaLib:1.0.0.5] C:\Users\Administrator\.android\build-cache\d28c480cff5da0e03c0d9e811c29660d7e5c3393\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\566b979cd2e42e612f8add8fda99d741e0f9e3d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a2a73c1a75135afcba9bb08768a1604cb2d763ec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\70f90b1dac28bc17a59a0b40d177aded79f78427\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b1548f540d9f2434ea6a046b1f84029f2bc02261\output\AndroidManifest.xml:26:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\2b363e5309be675be46ae59dd66eaa834ae3f33d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\Administrator\.android\build-cache\ae30956a219f28ab9edaa10163c440f946207651\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\73f4c1b051578f070cbe8a0a39e8f87145843996\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8f500be7e2cef336104fb267f907188feafd53bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\ef00418210c4cc8eebbb7a5540b008a976740983\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\7dc9ccde94a194c6cbca6bf4668765f00a2a52f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\29ccdc0831a7c2b4ddb8aca2da6616deb240d519\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\610f6bea66655b5ba648bd1dc08a784dbfb17220\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:40:9-41
+	android:supportsRtl
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:42:9-35
+	android:roundIcon
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:41:9-51
+	android:allowBackup
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:39:9-40
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\Administrator\.android\build-cache\9c769074916cf2567472b725a0dd12888ba9cf1d\output\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:43:9-40
+	tools:replace
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:44:9-37
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:37:9-33
+activity#com.pingxun.loanflower.ui.activity.SplashActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:48:13-44
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:49:13-51
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:47:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:53:27-74
+provider#com.pingxundata.pxcore.providers.PXFileProvider
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:authorities
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:59:13-70
+	android:grantUriPermissions
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:61:13-47
+	android:exported
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:58:13-75
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:62:13-64:57
+	android:resource
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:64:17-55
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:63:17-67
+meta-data#com.amap.api.v2.apikey
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:69:9-71:63
+	android:value
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:71:13-61
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:70:13-50
+service#com.amap.api.location.APSService
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:72:9-67
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:72:18-65
+service#com.pingxun.loanflower.service.LoginService
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:84:9-87:38
+	android:enabled
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:86:13-35
+	android:exported
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:85:13-49
+activity#com.pingxun.loanflower.ui.activity.GuidActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:88:9-90:59
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:89:19-50
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:90:19-57
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:88:19-59
+activity#com.pingxun.loanflower.ui.activity.MainActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:91:9-93:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:93:19-50
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:92:19-62
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:91:19-59
+activity#com.pingxun.loanflower.ui.activity.ProductInfoActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:94:9-95:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:95:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:94:19-66
+activity#com.pingxun.loanflower.ui.activity.LoginActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:96:9-97:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:97:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:96:19-60
+activity#com.pingxun.loanflower.ui.activity.ApplyListActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:98:9-99:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:99:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:98:19-64
+activity#com.pingxun.loanflower.ui.activity.AboutUsActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:100:9-101:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:101:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:100:19-62
+activity#com.pingxun.loanflower.ui.activity.RegistrationProActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:102:9-103:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:103:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:102:19-70
+activity#com.pingxun.loanflower.ui.activity.ProductListActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:104:9-105:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:105:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:104:19-66
+activity#com.pingxun.loanflower.ui.activity.MsgListActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:106:9-107:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:107:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:106:19-62
+activity#com.pingxun.loanflower.ui.activity.MsgInfoActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:108:9-109:52
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:109:19-50
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:108:19-62
+activity#com.pingxun.loanflower.ui.activity.UserInfoFirstActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:111:9-113:45
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:113:13-43
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:112:13-62
+activity#com.pingxun.loanflower.ui.activity.UserInfoSencondActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:114:9-116:45
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:116:13-43
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:115:13-64
+activity#com.pingxun.loanflower.ui.activity.UserInfoThirdActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:117:9-119:45
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:119:13-43
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:118:13-62
+activity#com.pingxun.loanflower.ui.activity.CooperationActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:121:9-123:45
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:123:13-43
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:122:13-60
+activity#com.mob.tools.MobUIShell
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:125:9-157:20
+	android:multiprocess
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:128:13-40
+	android:windowSoftInputMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:130:13-67
+	android:configChanges
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:127:13-74
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:129:13-72
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:126:13-52
+meta-data#AuthorizeAdapter
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:136:13-138:61
+	android:value
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:138:17-59
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:137:17-48
+meta-data#FBWebShareAdapter
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:139:13-141:69
+	android:value
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:141:17-67
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:140:17-49
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:151:13-154:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:152:17-91
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:152:25-89
+category#android.intent.category.DEFAULT
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:153:17-75
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:153:27-73
+activity#com.pingxun.loanflower.wxapi.WXEntryActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:160:9-164:74
+	android:exported
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:163:13-36
+	android:configChanges
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:162:13-74
+	android:theme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:164:13-72
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:161:13-50
+activity#cn.sharesdk.tencent.qq.ReceiveActivity
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:170:9-182:20
+	android:launchMode
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:172:13-44
+	android:noHistory
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:173:13-37
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:171:13-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:174:13-181:29
+action#android.intent.action.VIEW
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:175:17-68
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:175:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:178:17-77
+	android:name
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:178:27-75
+data
+ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:180:17-58
+	android:scheme
+		ADDED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml:180:23-56
+uses-sdk
+INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\faf292fe62ed12dc9fb992a0de9a381b563b0aa5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.contrarywind:Android-PickerView:3.2.7] C:\Users\Administrator\.android\build-cache\b36437479c97ec99b65083198f16e85f37cb59c4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lh1250360307:PXCore:1.0.0.11] C:\Users\Administrator\.android\build-cache\ffcf146fa525cff4ad61b79306244dafe8cd32e1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Administrator\.android\build-cache\1bee282c4598a0c19668bd8eeb42d41f93f8f5e9\output\AndroidManifest.xml:6:5-43
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22] C:\Users\Administrator\.android\build-cache\25fba2584bc6ec10a6de14b5b72e3001c9d05c3d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.yanzhenjie.alertdialog:alertdialog:1.0.1] C:\Users\Administrator\.android\build-cache\2b2e8ab7e7709e3d1c88def5487a962f6db643ad\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.lh1250360307:PXBanner:1.0.0.0] C:\Users\Administrator\.android\build-cache\f8e130b6d949cc9ef9b56a14aba8c303be61287b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Away-Leo:CommonDialog:1.0.1] C:\Users\Administrator\.android\build-cache\9ecde938d700c85afdd3720c8f83bde524ceba47\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Administrator\.android\build-cache\9c769074916cf2567472b725a0dd12888ba9cf1d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\Administrator\.android\build-cache\51f6ad728932a1065c9df04edb1e5556ac7bf4f4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\Administrator\.android\build-cache\53520ce61b098e093ce66041a3b4e0687cb93058\output\AndroidManifest.xml:8:5-10:41
+MERGED from [ch.ielse:switchbutton:1.0.1] C:\Users\Administrator\.android\build-cache\5664e7618b2a478e9fbceff9624a363a19e28275\output\AndroidManifest.xml:7:5-9:41
+MERGED from [LoanFlower:share:unspecified] E:\githubWork\LoanFlower\share\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Away-Leo:PXMetaLib:1.0.0.5] C:\Users\Administrator\.android\build-cache\d28c480cff5da0e03c0d9e811c29660d7e5c3393\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\566b979cd2e42e612f8add8fda99d741e0f9e3d8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d274e9323e23a35db2cefb9f1df40492df2eaaee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a2a73c1a75135afcba9bb08768a1604cb2d763ec\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\70f90b1dac28bc17a59a0b40d177aded79f78427\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b1548f540d9f2434ea6a046b1f84029f2bc02261\output\AndroidManifest.xml:20:5-44
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\2b363e5309be675be46ae59dd66eaa834ae3f33d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\Administrator\.android\build-cache\ae30956a219f28ab9edaa10163c440f946207651\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\dd947159f2084f04755753774a71172a8f0ca149\output\AndroidManifest.xml:22:5-24:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.android\build-cache\6c6aa650da6309c5e793f4e738aeaa8b8abbda20\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Administrator\.android\build-cache\47162cf3941239eea40f67448ffe10e9f967ff01\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Administrator\.android\build-cache\eda4f5d85ae4ba64fb41521abb821758b98bf6b2\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\73f4c1b051578f070cbe8a0a39e8f87145843996\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8f500be7e2cef336104fb267f907188feafd53bd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\ef00418210c4cc8eebbb7a5540b008a976740983\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\7dc9ccde94a194c6cbca6bf4668765f00a2a52f8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\29ccdc0831a7c2b4ddb8aca2da6616deb240d519\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\610f6bea66655b5ba648bd1dc08a784dbfb17220\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\566b979cd2e42e612f8add8fda99d741e0f9e3d8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+		INJECTED from E:\githubWork\LoanFlower\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\faf292fe62ed12dc9fb992a0de9a381b563b0aa5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\566b979cd2e42e612f8add8fda99d741e0f9e3d8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d274e9323e23a35db2cefb9f1df40492df2eaaee\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a2a73c1a75135afcba9bb08768a1604cb2d763ec\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\70f90b1dac28bc17a59a0b40d177aded79f78427\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b1548f540d9f2434ea6a046b1f84029f2bc02261\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\73f4c1b051578f070cbe8a0a39e8f87145843996\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8f500be7e2cef336104fb267f907188feafd53bd\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\ef00418210c4cc8eebbb7a5540b008a976740983\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\7dc9ccde94a194c6cbca6bf4668765f00a2a52f8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\29ccdc0831a7c2b4ddb8aca2da6616deb240d519\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\610f6bea66655b5ba648bd1dc08a784dbfb17220\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\faf292fe62ed12dc9fb992a0de9a381b563b0aa5\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\faf292fe62ed12dc9fb992a0de9a381b563b0aa5\output\AndroidManifest.xml:23:9-47
+activity#com.yanzhenjie.permission.PermissionActivity
+ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:25:9-30:75
+	android:launchMode
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:28:13-42
+	android:windowSoftInputMode
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:30:13-72
+	android:configChanges
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from [com.yanzhenjie:permission:1.1.0] C:\Users\Administrator\.android\build-cache\7e928148e944690bcca0b6dc94fb43cf19d916cf\output\AndroidManifest.xml:26:13-72
+service#com.pingxundata.pxcore.autoupdate.DownloadService
+ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:45:9-47:39
+	android:exported
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:46:13-77
+service#com.pingxundata.pxcore.services.FloatViewService
+ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:48:9-50:39
+	android:exported
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:49:13-76
+activity#com.pingxundata.pxcore.absactivitys.PXRecommendActivity
+ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:53:13-83
+activity#com.pingxundata.pxcore.absactivitys.PXSimpleWebViewActivity
+ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from [com.github.Away-Leo:PXCore:1.1.4.49] C:\Users\Administrator\.android\build-cache\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\output\AndroidManifest.xml:56:13-87

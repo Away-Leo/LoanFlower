@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                           
+                                                       
+
+    <RelativeLayout
+        style="@style/MatchMatch" android:tag="layout/activity_guid_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <com.pingxundata.answerliu.pxbanner.PXGuideLinkageLayout
+            style="@style/MatchMatch">
+
+            <com.pingxundata.answerliu.pxbanner.PXBanner
+                android:id="@+id/banner_guide_background"
+                style="@style/MatchMatch"
+                app:banner_pageChangeDuration="1000"
+                app:banner_pointAutoPlayAble="false"
+                app:banner_pointContainerBackground="@android:color/transparent"
+                app:banner_pointDrawable="@drawable/bga_banner_selector_point_hollow"
+                app:banner_pointTopBottomMargin="10dp"
+                app:banner_transitionEffect="depth"/>
+
+
+        </com.pingxundata.answerliu.pxbanner.PXGuideLinkageLayout>
+
+        <TextView
+            android:id="@+id/tv_guide_skip"
+            style="@style/WrapWrap"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:clickable="true"
+            android:padding="4dp"
+            android:text="跳过 >"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_guide_enter"
+            style="@style/WrapWrap"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/shap_guid"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:text="@string/immediately_experience"
+            android:textColor="@color/guid_text_color"
+            android:textSize="16sp"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+    </RelativeLayout>
+         

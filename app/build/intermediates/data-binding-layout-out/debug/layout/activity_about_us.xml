@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+
+    <LinearLayout
+        style="@style/MatchMatch.Vertical" android:tag="layout/activity_about_us_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <!--引入公共顶部按钮以及标题-->
+        <include layout="@layout/local_top_view"/>
+
+        <RelativeLayout
+            style="@style/MatchMatch">
+
+            <ImageView
+                android:id="@+id/logo"
+                style="@style/WrapWrap"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                tools:ignore="ContentDescription"/>
+
+            <TextView
+                android:id="@+id/tv_app_versions"
+                style="@style/WrapWrap"
+                android:layout_below="@+id/logo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                tools:text="当前版本:1.0.0"/>
+
+            <TextView
+                style="@style/WrapWrap"
+                android:layout_below="@+id/tv_app_versions"
+                android:text="@string/about_us_text"
+                android:layout_marginTop="30dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="30dp"/>
+
+            <TextView
+                style="@style/WrapWrap"
+                android:textSize="12sp"
+                android:text="@string/about_bottom"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"/>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+         

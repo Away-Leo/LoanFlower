@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\basepopup_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\anim\\basepopup_fade_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\wechat_pop_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\anim\\wechat_pop_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\screen_zoom_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\anim\\screen_zoom_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\566b979cd2e42e612f8add8fda99d741e0f9e3d8\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f514fb44fcb9ae2f98ea205d8e09f3afb20d789b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9ecde938d700c85afdd3720c8f83bde524ceba47\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b36437479c97ec99b65083198f16e85f37cb59c4\\output\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\basepopup_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0e96e0f8aab00e35aed6a5dcb457b27d41c5c025\\output\\res\\anim\\basepopup_fade_in.xml"
+    },
+    {
+        "merged": "E:\\githubWork\\LoanFlower\\app\\build\\intermediates\\res\\merged\\debug\\anim\\screen_zoom_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ffcf146fa525cff4ad61b79306244dafe8cd32e1\\output\\res\\anim\\screen_zoom_in.xml"
+    }
+]

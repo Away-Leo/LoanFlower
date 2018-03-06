@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                style="@style/MatchWrap"
+                android:background="@drawable/ripple_bg"
+                android:paddingTop="8dp">
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginEnd="14dp"
+        tools:ignore="ContentDescription"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/MatchWrap"
+        android:layout_toEndOf="@+id/iv_icon"
+        android:layout_toStartOf="@+id/tv_apply_num"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textSize="@dimen/sp_14"
+        tools:text="标题"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/tv_money_range"
+        style="@style/WrapWrap"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@+id/iv_icon"
+        tools:text="额度范围"
+        android:textSize="@dimen/sp_12"
+        />
+
+    <TextView
+        android:id="@+id/tv_time_range"
+        style="@style/WrapWrap"
+        android:layout_below="@+id/tv_money_range"
+        tools:text="期限范围"
+        android:layout_toEndOf="@+id/iv_icon"
+        android:textSize="@dimen/sp_12"
+        />
+
+    <TextView
+        android:id="@+id/tv_interest_rate"
+        style="@style/WrapWrap"
+        android:layout_below="@+id/tv_time_range"
+        tools:text="利率"
+        android:layout_toEndOf="@+id/iv_icon"
+        android:textSize="@dimen/sp_12"
+       />
+
+    <TextView
+        android:id="@+id/tv_confirm"
+        android:paddingBottom="4dp"
+        android:paddingTop="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/immediately_apply"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/tab_font_bright"
+        android:textSize="12sp"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/shap_apply"
+        style="@style/WrapWrap"/>
+
+    <TextView
+        android:id="@+id/tv_apply_num"
+        style="@style/WrapWrap"
+        tools:text="申请人数"
+        android:textSize="12sp"
+        android:layout_marginEnd="10dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/tv_time_range"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="6dp"
+        android:background="@color/grey_line"
+        android:layout_below="@+id/tv_apply_num"/>
+
+</RelativeLayout>
